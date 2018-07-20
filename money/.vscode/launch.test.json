@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "money",
+                "projectName": "money",
+                "workingDirectory": "/Users/kentakudo/Desktop/tdd/money",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "money",
+                "projectName": "money",
+                "workingDirectory": "/Users/kentakudo/Desktop/tdd/money",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
