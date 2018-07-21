@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "junit5-vanilla-maven",
+                "projectName": "junit5-vanilla-maven",
+                "workingDirectory": "/Users/kentakudo/.ghq/github.com/KentaKudo/tdd/money",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "junit5-vanilla-maven",
+                "projectName": "junit5-vanilla-maven",
+                "workingDirectory": "/Users/kentakudo/.ghq/github.com/KentaKudo/tdd/money",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
